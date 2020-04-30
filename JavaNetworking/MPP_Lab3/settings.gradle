@@ -1,0 +1,8 @@
+rootProject.name = 'MPP_Lab3'
+include 'Model'
+include 'Persistance'
+include 'Networking'
+include 'Services'
+include 'Client'
+include 'Server'
+

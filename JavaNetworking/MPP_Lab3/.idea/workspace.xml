@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2f7377a-4511-4436-961b-49d3be8443b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="baza" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="baza" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="baza" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="baza" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_Lab3" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_Lab3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_Lab3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_Lab3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnkqByaAxXayU18yE9Qi7OppMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql&#10;postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Networking/src/main/java/objectProtocol" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Server\src\main\resources" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Client\src\main\resources" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Client\src\main\java" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Client" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\src\main\resources\views" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Networking\src\main\java\objectProtocol" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Persistance\src\main\java\persistance" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Persistance\src\main\java" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\Model\src\main\java" />
+      <recent name="C:\Users\pc\IdeaProjects\MPP_Lab3\src\main\java\objectProtocol" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="persistance" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartClient">
+    <configuration name="StartClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartClient" />
+      <module name="MPP_Lab3.Client.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartServer" />
+      <module name="MPP_Lab3.Server.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="MPP_Lab3.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MPP_Lab3 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MPP_Lab3 [run]" type="GradleRunConfiguration" factoryName="Gradle" singleton="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartServer" />
+      <item itemvalue="Application.StartClient" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Gradle.MPP_Lab3 [build]" />
+      <item itemvalue="Gradle.MPP_Lab3 [run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.StartClient" />
+        <item itemvalue="Application.StartServer" />
+        <item itemvalue="Gradle.MPP_Lab3 [run]" />
+        <item itemvalue="Gradle.MPP_Lab3 [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:baza" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:baza" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@10ca8bd7" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f7377a-4511-4436-961b-49d3be8443b4" name="Default Changelist" comment="" />
+      <created>1583585933139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583585933139</updated>
+      <workItem from="1583585938081" duration="4621000" />
+      <workItem from="1583674589314" duration="20398000" />
+      <workItem from="1584264602045" duration="826000" />
+      <workItem from="1584349653691" duration="1512000" />
+      <workItem from="1584358134300" duration="2719000" />
+      <workItem from="1584432382549" duration="604000" />
+      <workItem from="1584648037823" duration="394000" />
+      <workItem from="1584807609566" duration="18916000" />
+      <workItem from="1584957207407" duration="20754000" />
+      <workItem from="1585035611450" duration="5561000" />
+      <workItem from="1585155388881" duration="304000" />
+      <workItem from="1585245430081" duration="4855000" />
+      <workItem from="1585324221030" duration="222000" />
+      <workItem from="1585496291750" duration="6812000" />
+      <workItem from="1585576622028" duration="19889000" />
+      <workItem from="1585601546268" duration="5116000" />
+      <workItem from="1585742166031" duration="8122000" />
+      <workItem from="1585832403219" duration="16051000" />
+      <workItem from="1585855844892" duration="642000" />
+      <workItem from="1585904792868" duration="2690000" />
+      <workItem from="1585928634554" duration="13200000" />
+      <workItem from="1586082656581" duration="5464000" />
+      <workItem from="1586088882192" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1585590051900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1585590051900" />
+    <state x="275" y="26" key="#SQL_Dialects" timestamp="1583675551336">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#SQL_Dialects/0.0.1366.738@0.0.1366.738" timestamp="1583675551336" />
+    <state x="274" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585579522438">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1585579522438" />
+    <state x="437" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583831920593">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="437" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1583831920593" />
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1585840732796">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1585840732796" />
+    <state x="379" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585589684993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1585589684993" />
+    <state x="479" y="227" width="408" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585929952937">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="227" width="408" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1585929952937" />
+    <state x="479" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585589686304">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.738@0.0.1366.738" timestamp="1585589686304" />
+    <state x="347" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583777591289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="347" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1583777591289" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585844432278">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1585844432278" />
+    <state x="463" y="94" key="FileChooserDialogImpl" timestamp="1585928726325">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="94" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585928726325" />
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1586088540992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586088540992" />
+    <state x="479" y="193" width="408" height="348" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1583776893501">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="193" width="408" height="348" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.738@0.0.1366.738" timestamp="1583776893501" />
+    <state x="399" y="9" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584968381574">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="399" y="9" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1584968381574" />
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586082749804">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586082749804" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585589634717">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1585589634717" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584966674820">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1584966674820" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1585842918738">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1585842918738" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="qresponses" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
